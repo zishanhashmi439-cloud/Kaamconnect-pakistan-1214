@@ -1,0 +1,8 @@
+{
+  "name": "KaamConnect Pakistan",
+  "description": "Pakistan's all-in-one home construction, renovation, and skilled worker marketplace connecting customers with verified Raj Mistri, plumbers, electricians, carpenters, and contractors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
